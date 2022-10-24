@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\Zespo12CS.exe
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\Zespo12CS.deps.json
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\Zespo12CS.runtimeconfig.json
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\Zespo12CS.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\Zespo12CS.dll
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\ref\Zespo12CS.dll
+C:\Users\Admin\Desktop\Zespo12CS\bin\Debug\net5.0\Zespo12CS.pdb
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.dll
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\ref\Zespo12CS.dll
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.pdb
+C:\Users\Admin\Desktop\Zespo12CS\obj\Debug\net5.0\Zespo12CS.genruntimeconfig.cache
